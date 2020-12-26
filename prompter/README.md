@@ -1,1 +1,1 @@
-This is a practice dart package
+This is a practice dart package.
