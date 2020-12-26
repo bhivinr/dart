@@ -1,0 +1,14 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "prompter_bhivinr",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    }
+  ],
+  "generated": "2020-12-26T23:16:39.889500Z",
+  "generator": "pub",
+  "generatorVersion": "2.10.4"
+}

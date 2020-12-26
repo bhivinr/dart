@@ -1,0 +1,9 @@
+name: prompter_bhivinr
+version: 0.0.1
+description: Library to build CLI wizards
+
+author: Vinay Bhimavarapu <bhivinr@gmail.com>
+homepage: https://www.twitter.com/bhivinr
+
+environment:
+  sdk: '>=2.10.0 <3.0.0'
